@@ -110,7 +110,7 @@
 | **Issuer** | Department of General Education, Kerala |
 | **Event** | Kerala School Skill Festival 2025 — Kuttippuram Region |
 | **Category** | Web Application Development |
-| **Position** | 🥉 Third Place (Regional) |
+| **Position** | second 🥈 Place (Regional) |
 | **School** | GVHSS Karakurissi |
 | **Date** | October 29 & 30, 2025 |
 | **Venue** | AKM HS School, Kottoor, Malappuram |
